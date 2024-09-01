@@ -1,5 +1,4 @@
 body {
-    background-color: rgba(232, 144, 65, 1);
     font-family: Roboto, serif;
     align-content: baseline;
     font-weight: bold;
@@ -14,23 +13,31 @@ body {
 .title {
     font-size: 2em;
     margin-bottom: 0.1em;
-    color: white;
 }
 
 .title2 {
     font-size: 3em;
     margin-top: 0;
     margin-bottom: 0;
-    color: white;
 }
 
 .contenedor-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas */
     gap: 20px;
     padding: 20px;
     max-width: 1100px;
     margin: auto;
+    align-content: center;
+}
+
+.contenedor-grid2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0px;
+    max-width: 700px;
+    margin: auto;
+    align-content: center;
 }
 
 .cuadro {
@@ -38,23 +45,24 @@ body {
     padding: 30px;
     border-radius: 15px;
     flex-direction: column;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .box-title {
-    display: flex;
+    text-align: -webkit-center;
     align-items: center;
 }
 
-h3 {
-    margin-left: 30px;
-}
-
 .cuadro img {
-    width: 40px;
-    height: 40px;
+    width: 180px;
+    height: 180px;
     margin-bottom: 10px;
     display: flex;
+    border-radius: 5%;
+    align-items: center;
 }
 
 .cuadro h3 {
@@ -69,3 +77,4 @@ h3 {
 p {
     font-weight: 500;
 }
+
