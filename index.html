@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--FontAwesome cdn link-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!--Light galley link-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.4.0/css/lightgallery.min.css" integrity="sha512-xLycG5abLZLbm0komL9tmCAgzIKW1BpA8MvK1SRLNyWvKos+3xXCGYzYlFGoav7OH3275iEfKUWEgMnv+K5JWg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofGJlSK6QOp6nF0sz04k80PZlOAAIfRemb" crossorigin="anonymous">
+
+    <!--Hoja de estilos-->
+    <link rel="stylesheet" href="./style.css">
+    <!--Imagenes recolectadas de https://storyset.com/search -->
+    <title>UniGo</title>
+</head>
+<body>
+
+<!--INICIO HEADER-->
+<header class="header">
+
+    <div class="logoUF">
+        <img src="img/logoGoUni.png" alt="logoUF">
+    </div>
+    <nav class="navbar">
+        <a href="#inicio">Inicio</a>
+        <a href="#beneficios">Beneficios</a>
+        <a href="#planes">Planes</a>
+        <a href="#nosotros">Nosotros</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+
+
+    <div class="header-right">
+        <div class="language-selector">
+            <span class="selected-language">Español <i class="fas fa-chevron-down"></i></span>
+            <select id="lang-selector" onchange="setLanguage()">
+                <option value="es">Español</option>
+                <option value="en">English</option>
+            </select>
+        </div>
+        <button class="login-btn" onclick="window.open('##', '_blank')">Log In</button>
+        <button class="register-btn" onclick="window.open('##', '_blank')">Register</button>
+    </div>
+
+    <div id="menu-btn" class="fas fa-bars"></div>
+</header>
+
+
+<!--INICIO HOME-->
+<section class="home" id="home">
+    <div class="content">
+        <h3>ㅤㅤ</h3>
+        <h3>Viaja cómodo, seguro y<br>económico con GoUni</h3>
+        <p>Comparte viajes con tus compañeros de universidad. Ahorra <br>dinero, haz amigos y cuida el medio ambiente.</p>
+        <div class="join-form">
+            <input type="email" placeholder="Tu correo universitario" required>
+            <button class="join-btn">Unirme</button>
+        </div>
+        <a href="#" class="login-link">¿Ya tienes cuenta? Iniciar sesión</a>
+    </div>
+
+
+</section>
+
+
+<!--FIN HOME-->
+
+
+<section class="how-it-works">
+    <h2>Cómo <br> <span>Funciona</span></h2>
+    <div class="steps-container">
+        <div class="step">
+            <img class="img" src="img/icon1.png" alt="Icono 1">
+            <h3>1. Regístrate</h3>
+            <p>Crea tu perfil con tu correo universitario y verifica tu cuenta</p>
+        </div>
+        <div class="step">
+            <img class="img" src="img/icon2.png" alt="Icono 2">
+            <h3>2. Busca o Publica Viajes</h3>
+            <p>Encuentra compañeros que vayan a tu universidad o publica tu ruta</p>
+        </div>
+        <div class="step">
+            <img class="img" src="img/icon3.png" alt="Icono 3">
+            <h3>3. Viaja y Ahorra</h3>
+            <p>Comparte gastos, reduce emisiones y haz nuevos amigos</p>
+        </div>
+    </div>
+</section>
+
+<!-- Updated Footer -->
+<footer class="footer">
+    <div class="footer-content">
+        <nav class="footer-nav">
+            <a href="#">Cómo funciona</a>
+            <a href="#">Nuestros planes</a>
+            <a href="#">Sobre nosotros</a>
+            <a href="#">Contáctenos</a>
+        </nav>
+        <div class="language-selector">
+            <span class="selected-language">Español <i class="fas fa-chevron-down"></i></span>
+            <select id="lang-selector" onchange="setLanguage()">
+                <option value="es">Español</option>
+                <option value="en">English</option>
+            </select>
+
+        </div>
+    </div>
+    <div class="footer-main">
+        <div class="footer-logo">
+            <img src="img/logoGoUni.png" alt="GoUni Logo">
+            <h2>GoUni</h2>
+        </div>
+        <p class="footer-description">
+            Somos GoUni, tu aliado en movilidad universitaria. Comparte viajes,<br> conecta con amigos y ayuda a reducir el tráfico en tu ciudad.<br>¡Únete hoy y sé parte del cambio!
+        </p>
+        <div class="footer-legal">
+            <a href="#">Políticas de Privacidad</a>
+            <a href="#">Términos de uso</a>
+        </div>
+        <div class="footer-social">
+            <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p class="footer-copyright">© GoUni 2024. Todos los derechos reservados.</p>
+    </div>
+</footer>
+
+<script src="/script.js"></script>
+</body>
+</html>
+<!--Scrips JS-->
+<script src="/script.js">
+</script>
+</body>
+</html>
+
