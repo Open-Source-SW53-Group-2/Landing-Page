@@ -1,0 +1,190 @@
+{
+    "page": {
+      "title": "UniGo"
+    },
+    "nav": {
+      "home": "Inicio",
+      "function": "Función",
+      "benefits": "Beneficios",
+      "plans": "Planes",
+      "contact": "Contacto",
+      "service": "Servicio",
+      "sponsors": "Sponsors",
+      "about": "Nosotros"
+    },
+    "language": {
+      "spanish": "Español",
+      "english": "Inglés"
+    },
+    "button": {
+      "login": "Iniciar sesión",
+      "register": "Registrarse"
+    },
+    "home": {
+      "title": "Viaja cómodo ,seguro y económico con GoUni",
+      "description": "Comparte viajes con tus compañeros de universidad. Ahorra dinero, haz amigos y cuida el medio ambiente."
+    },
+    "join": {
+      "emailPlaceholder": "Tu correo universitario",
+      "button": "Unirme",
+      "loginLink": "¿Ya tienes cuenta? Iniciar sesión"
+    },
+    "howItWorks": {
+      "title": "Cómo",
+      "titleSpan": "Funciona",
+      "step1": {
+        "title": "1. Regístrate",
+        "description": "Crea tu perfil con tu correo universitario y verifica tu cuenta"
+      },
+      "step2": {
+        "title": "2. Busca o Publica Viajes",
+        "description": "Encuentra compañeros que vayan a tu universidad o publica tu ruta"
+      },
+      "step3": {
+        "title": "3. Viaja y Ahorra",
+        "description": "Comparte gastos, reduce emisiones y haz nuevos amigos"
+      }
+    },
+    "benefits": {
+      "title": "Conoce",
+      "titleSpan": "Nuestros Beneficios de GoUni",
+      "saveMoney": {
+        "title": "Ahorra dinero",
+        "description": "Comparte los gastos de transporte con tus compañeros y reduce tus costos diarios."
+      },
+      "makeFriends": {
+        "title": "Haz nuevos amigos",
+        "description": "Conéctate con otros estudiantes y amplía tu círculo social."
+      },
+      "environment": {
+        "title": "Cuida el medio ambiente",
+        "description": "Reduce tu huella de carbono compartiendo viajes y contribuye a un planeta más limpio."
+      },
+      "safety": {
+        "title": "Viaja Seguro",
+        "description": "Disfruta de tranquilidad con nuestra comunidad de usuarios verificados y características de seguridad."
+      },
+      "flexibility": {
+        "title": "Flexibilidad",
+        "description": "Elige el horario y la ruta que mejor se adapten a tus necesidades."
+      },
+      "community": {
+        "title": "Comunidad Universitaria",
+        "description": "Sé parte de una red de apoyo de estudiantes de tu universidad."
+      }
+    },
+    "security": {
+      "title": "Tu seguridad es",
+      "priority": "Nuestra Prioridad",
+      "description": "En GoUni, nos tomamos muy en serio la seguridad de nuestros usuarios. Implementamos rigurosas medidas para garantizar viajes seguros y confiables.",
+      "feature1": "Verificación de perfiles",
+      "feature2": "Sistemas de calificaciones y reseñas",
+      "feature3": "Compartir detalles del viaje con contactos de confianza"
+    },
+    "plans": {
+      "title": "Conoce",
+      "subtitle": "Nuestros Planes",
+      "basic": {
+        "title": "Básico",
+        "price": "Gratis",
+        "feature1": "2 viajes por día",
+        "feature2": "Acceso limitado a funciones",
+        "feature3": "Anuncios incluidos",
+        "feature4": "Soporte básico comunitario"
+      },
+      "student": {
+        "title": "Plan Estudiante",
+        "price": "S/.10",
+        "feature1": "Invita a un acompañante gratis (4 veces al mes)",
+        "feature2": "Viajes ilimitados",
+        "feature3": "Puntos dobles en el primer mes",
+        "feature4": "Reservas anticipadas",
+        "feature5": "Acceso a descuentos exclusivos",
+        "feature6": "Atención al cliente preferencial"
+      },
+      "premium": {
+        "title": "Plan Premium",
+        "price": "S/.15",
+        "feature1": "Viajes ilimitados",
+        "feature2": "Acumulación de puntos canjeables",
+        "feature3": "Personalización de precios",
+        "feature4": "Notificaciones en tiempo real",
+        "feature5": "Invita a un acompañante gratis (4 veces al mes)",
+        "feature6": "Acceso a eventos exclusivos para conductores"
+      },
+      "subscribeButton": "Suscríbete",
+      "cancelAnytime": "Cancela en cualquier momento",
+      "perMonth": "/mes",
+      "mostPopular": "Más popular"
+    },
+    "contact": {
+      "title": "Como puedes",
+      "titleSpan": "Contactarnos",
+      "formTitle": "Contáctanos",
+      "namePlaceholder": "Ingrese su nombre y apellido",
+      "emailPlaceholder": "Ingrese su correo",
+      "phonePlaceholder": "Ingrese su numero telefónico",
+      "messagePlaceholder": "Te gustaría hablar de",
+      "submitButton": "Enviar mensaje"
+    },
+    "footer": {
+      "howItWorks": "Cómo funciona",
+      "ourPlans": "Nuestros planes",
+      "aboutUs": "Sobre nosotros",
+      "contactUs": "Contáctenos",
+      "description": "Somos GoUni, tu aliado en movilidad universitaria. Comparte viajes, conecta con amigos y ayuda a reducir el tráfico en tu ciudad. ¡Únete hoy y sé parte del cambio!",
+      "privacyPolicy": "Políticas de Privacidad",
+      "termsOfUse": "Términos de uso",
+      "copyright": "© GoUni 2024. Todos los derechos reservados."
+    },
+    "hero": {
+      "title": "¿Quiénes Somos?",
+      "description": "Transformando el transporte universitario con tecnología innovadora.",
+      "cta": "Descubre más"
+    },
+    "features": {
+      "title": "¿Por qué GoUni?",
+      "community": {
+        "title": "Comunidad estudiantil",
+        "description": "Conecta con otros estudiantes de tu universidad y haz nuevos amigos"
+      },
+      "security": {
+        "title": "Seguridad Garantizada",
+        "description": "Viaja con confianza gracias a nuestro sistema de verificación de usuarios."
+      },
+      "eco": {
+        "title": "Eco friendly",
+        "description": "Reduce tu huella de carbono compartiendo viajes y cuidando el medio ambiente."
+      },
+      "savings": {
+        "title": "Ahorro económico",
+        "description": "Divide los costos de transporte y ahorra dinero en tus viajes diarios."
+      }
+    },
+    "sponsors": {
+      "title": "Conoce a",
+      "titleSpan": "Nuestros Sponsors"
+    },
+    "team": {
+      "title": "Conoce",
+      "titleSpan": "Nuestro Equipo",
+      "joan": {
+        "role1": "Scrum Master Desarrollador",
+        "role2": "Front-End",
+        "role3": "Desarrollador UX/UI"
+      },
+      "franky": {
+        "role": "Product Owner y Desarrollador Back-End"
+      },
+      "alessandro": {
+        "role": "Desarrollador Full-Stack"
+      },
+      "angel": {
+        "role": "Desarrollador-DevOps"
+      },
+      "samuel": {
+        "role": "Desarrollador Full-Stack"
+      }
+    }
+  }
+

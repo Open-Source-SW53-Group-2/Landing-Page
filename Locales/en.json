@@ -1,0 +1,190 @@
+{
+    "page": {
+      "title": "UniGo"
+    },
+    "nav": {
+      "home": "Home",
+      "function": "Function",
+      "benefits": "Benefits",
+      "plans": "Plans",
+      "contact": "Contact",
+      "service": "Service",
+      "sponsors": "Sponsors",
+      "about": "About Us"
+    },
+    "language": {
+      "spanish": "Spanish",
+      "english": "English"
+    },
+    "button": {
+      "login": "Log In",
+      "register": "Register"
+    },
+    "home": {
+      "title": "Travel comfortably, safely and economically with GoUni",
+      "description": "Share rides with your university classmates. Save money, make friends and care for the environment."
+    },
+    "join": {
+      "emailPlaceholder": "Your university email",
+      "button": "Join",
+      "loginLink": "Already have an account? Log in"
+    },
+    "howItWorks": {
+      "title": "How",
+      "titleSpan": "It Works",
+      "step1": {
+        "title": "1. Register",
+        "description": "Create your profile with your university email and verify your account"
+      },
+      "step2": {
+        "title": "2. Search or Publish Trips",
+        "description": "Find classmates going to your university or publish your route"
+      },
+      "step3": {
+        "title": "3. Travel and Save",
+        "description": "Share expenses, reduce emissions and make new friends"
+      }
+    },
+    "benefits": {
+      "title": "Discover",
+      "titleSpan": "Our GoUni Benefits",
+      "saveMoney": {
+        "title": "Save money",
+        "description": "Share transportation costs with your classmates and reduce your daily expenses."
+      },
+      "makeFriends": {
+        "title": "Make new friends",
+        "description": "Connect with fellow students and expand your social circle."
+      },
+      "environment": {
+        "title": "Care for the environment",
+        "description": "Reduce your carbon footprint by sharing rides and contributing to a cleaner planet."
+      },
+      "safety": {
+        "title": "Travel Safely",
+        "description": "Enjoy peace of mind with our verified user community and safety features."
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "description": "Choose your preferred schedule and route to fit your needs."
+      },
+      "community": {
+        "title": "University Community",
+        "description": "Be part of a supportive network of students from your university."
+      }
+    },
+    "security": {
+      "title": "Your safety is",
+      "priority": "Our Priority",
+      "description": "At GoUni, we take the safety of our users very seriously. We implement rigorous measures to ensure safe and reliable trips.",
+      "feature1": "Profile verification",
+      "feature2": "Rating and review systems",
+      "feature3": "Share trip details with trusted contacts"
+    },
+    "plans": {
+      "title": "Discover",
+      "subtitle": "Our Plans",
+      "basic": {
+        "title": "Basic",
+        "price": "Free",
+        "feature1": "2 trips per day",
+        "feature2": "Limited access to features",
+        "feature3": "Ads included",
+        "feature4": "Basic community support"
+      },
+      "student": {
+        "title": "Student Plan",
+        "price": "$10",
+        "feature1": "Invite a companion for free (4 times a month)",
+        "feature2": "Unlimited trips",
+        "feature3": "Double points in the first month",
+        "feature4": "Advanced bookings",
+        "feature5": "Access to exclusive discounts",
+        "feature6": "Preferential customer service"
+      },
+      "premium": {
+        "title": "Premium Plan",
+        "price": "$15",
+        "feature1": "Unlimited trips",
+        "feature2": "Accumulation of redeemable points",
+        "feature3": "Price customization",
+        "feature4": "Real-time notifications",
+        "feature5": "Invite a companion for free (4 times a month)",
+        "feature6": "Access to exclusive events for drivers"
+      },
+      "subscribeButton": "Subscribe",
+      "cancelAnytime": "Cancel anytime",
+      "perMonth": "/month",
+      "mostPopular": "Most popular"
+    },
+    "contact": {
+      "title": "How you can",
+      "titleSpan": "Contact Us",
+      "formTitle": "Contact Us",
+      "namePlaceholder": "Enter your name and surname",
+      "emailPlaceholder": "Enter your email",
+      "phonePlaceholder": "Enter your phone number",
+      "messagePlaceholder": "What would you like to talk about",
+      "submitButton": "Send Message"
+    },
+    "footer": {
+      "howItWorks": "How it works",
+      "ourPlans": "Our plans",
+      "aboutUs": "About us",
+      "contactUs": "Contact us",
+      "description": "We are GoUni, your ally in university mobility. Share rides, connect with friends and help reduce traffic in your city. Join today and be part of the change!",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfUse": "Terms of Use",
+      "copyright": "© GoUni 2024. All rights reserved."
+    },
+   "hero": {
+      "title": "Who Are We?",
+      "description": "Transforming university transportation with innovative technology.",
+      "cta": "Discover More"
+    },
+    "features": {
+      "title": "Why GoUni?",
+      "community": {
+        "title": "Student Community",
+        "description": "Connect with other students from your university and make new friends"
+      },
+      "security": {
+        "title": "Guaranteed Security",
+        "description": "Travel with confidence thanks to our user verification system."
+      },
+      "eco": {
+        "title": "Eco-friendly",
+        "description": "Reduce your carbon footprint by sharing rides and caring for the environment."
+      },
+      "savings": {
+        "title": "Economic Savings",
+        "description": "Split transportation costs and save money on your daily trips."
+      }
+    },
+    "sponsors": {
+      "title": "Meet",
+      "titleSpan": "Our Sponsors"
+    },
+    "team": {
+      "title": "Meet",
+      "titleSpan": "Our Team",
+      "joan": {
+        "role1": "Scrum Master Developer",
+        "role2": "Front-End",
+        "role3": "UX/UI Developer"
+      },
+      "franky": {
+        "role": "Product Owner and Back-End Developer"
+      },
+      "alessandro": {
+        "role": "Full-Stack Developer"
+      },
+      "angel": {
+        "role": "DevOps Developer"
+      },
+      "samuel": {
+        "role": "Full-Stack Developer"
+      }
+    }
+    
+  }
